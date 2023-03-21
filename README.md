@@ -1,4 +1,4 @@
-## ANN using TensorFlow 2.0 for MNIST and Regression
+# ANN using TensorFlow 2.0 for MNIST and Regression
 
 This notebook contains two machine learning models built using TensorFlow 2.0: one for MNIST digit classification and one for regression.
 
